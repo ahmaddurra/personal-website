@@ -1,0 +1,47 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+li {
+    float: right;
+}
+
+a {
+    display: block;
+    padding: 14px 16px;
+    
+    text-decoration: none;
+    text-align: center;
+    background-color: #000080;
+	color: #B0E0E6;
+}
+body{
+	background-color: #5CDB95;
+}
+p{
+	color:#EDF5E1;
+}
+   
+.topnav{
+	background-color:#000080;
+}
+
+a:hover {
+    background-color: #000080;
+    color:#0187ff;
+}
+a:active{
+	background-color: #000080;
+    color: red;
+}
+
+.hobbies{
+	float: right;
+}
+.logo{
+	float:left;
+	margin:0;
+}
