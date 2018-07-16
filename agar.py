@@ -40,7 +40,7 @@ SCREEN_HIGHT=turtle.getcanvas().winfo_height()/2
 Pause = False
 
 numBalls =1
-
+bvbvbbv
 minR=70
 
 maxR=100
